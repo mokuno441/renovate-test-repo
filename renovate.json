@@ -1,5 +1,6 @@
 {
   "platform": "github",
+  "dependencyDashboard": true,
   "regexManagers": [
     {
       "fileMatch": ["^versions.ini"],
