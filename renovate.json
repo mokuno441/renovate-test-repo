@@ -1,6 +1,5 @@
 {
   "platform": "github",
-  "managers": ["regex"],
   "regexManagers": [
     {
       "fileMatch": ["^versions.ini"],
