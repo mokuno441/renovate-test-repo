@@ -6,7 +6,7 @@
       "fileMatch": ["^versions.ini"],
       "matchStrings": "VERSION=(?<currentValue>.*)",
       "datasourceTemplate": "github-releases",
-      "depnameTemplate": "mokuno441/renovate-test-repo"
+      "depNameTemplate": "mokuno441/renovate-test-repo"
     }
   ]
 }
