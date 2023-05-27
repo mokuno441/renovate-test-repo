@@ -4,7 +4,7 @@
   "regexManagers": [
     {
       "fileMatch": ["^versions.ini"],
-      "matchStrings": "VERSION=(?<currentValue>.*)",
+      "matchStrings": ["VERSION=(?<currentValue>.*)"],
       "datasourceTemplate": "github-releases",
       "depNameTemplate": "mokuno441/renovate-test-repo"
     }
